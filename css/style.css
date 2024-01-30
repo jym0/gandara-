@@ -296,6 +296,10 @@ section {
   padding: 1rem 0;
 }
 
+.shop{
+  background-color:$white;
+}
+
 .shop .slide {
   border: 0.1rem solid #222;
   border-color: #c7dbe2;
@@ -502,6 +506,10 @@ section {
   border-radius: 8px;
 }
 
+.review{
+  background-color:$white;
+}
+
 .reviews-slider .slide .user {
   display: flex;
   align-items: center;
@@ -584,6 +592,11 @@ section {
   color: #777;
   line-height: 2;
 }
+
+.blogs{
+  background-color:$white;
+}
+
 
 .blogs .slide:hover .image img {
   transform: scale(1.1);
