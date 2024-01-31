@@ -297,7 +297,7 @@ section {
 }
 
 .shop{
-  background-color:$white;
+  background-color:#fff;
 }
 
 .shop .slide {
@@ -507,7 +507,7 @@ section {
 }
 
 .review{
-  background-color:$white;
+  background-color:#fff;
 }
 
 .reviews-slider .slide .user {
@@ -594,7 +594,7 @@ section {
 }
 
 .blogs{
-  background-color:$white;
+  background-color:#fff;
 }
 
 
